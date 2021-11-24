@@ -4,12 +4,12 @@
 
 #### About me 😃
 
-- :computer: I’m  have backend experience
+- :computer: I have backend experience
 
-- :computer: I’m  have frontend experience
+- :computer: I have frontend experience
 
-- :pencil2: I’m  like to write articles 
-- :books:  I’m like to learn new technologies
+- :pencil2: I like to write articles 
+- :books:  I like to learn new technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
